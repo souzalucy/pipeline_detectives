@@ -1,0 +1,107 @@
+Com base no arquivo why_question_answers.txt, podemos estabelecer evidências de teste para cada hipótese mencionada, verificando sua validade. Abaixo estão as hipóteses e as evidências esperadas caso sejam verdadeiras:
+
+1. Crescimento do PIB (2,3%) com inflação baixa (0,45%)
+Hipóteses relacionadas:
+
+Hipótese 2: Aumento do consumo e investimentos.
+
+Hipótese 5: Redução de juros e queda nos preços de combustíveis.
+
+Evidências de teste esperadas:
+✅ Se Hipótese 2 for verdadeira:
+
+Dados mostrando aumento nas vendas no varejo (consumo).
+
+Crescimento em setores intensivos em capital (investimentos).
+✅ Se Hipótese 5 for verdadeira:
+
+Relatórios do Banco Central confirmando cortes na taxa Selic.
+
+Queda nos preços de gasolina e diesel (dados da ANP).
+
+2. Queda no desemprego (7,8%) com aumento do endividamento (R$ 5.200)
+Hipóteses relacionadas:
+
+Hipótese 3: Geração de empregos no setor de serviços.
+
+Hipótese 10: Expansão do crédito.
+
+Evidências de teste esperadas:
+✅ Se Hipótese 3 for verdadeira:
+
+Aumento de vagas formais no setor de serviços (RAIS/CAGED).
+
+Redução na taxa de informalidade.
+✅ Se Hipótese 10 for verdadeira:
+
+Dados do Banco Central mostrando aumento em empréstimos pessoais.
+
+Relatórios de bancos sobre liberação de crédito com juros baixos.
+
+3. Exportações (+12%) com IED baixo (US$ 5 bi)
+Hipóteses relacionadas:
+
+Hipótese 4: Alta demanda por commodities e desvalorização do real.
+
+Hipótese 6: Reformas econômicas atraindo IED em setores não exportadores.
+
+Evidências de teste esperadas:
+✅ Se Hipótese 4 for verdadeira:
+
+Aumento nos preços internacionais de soja/minério de ferro.
+
+Dados da balança comercial mostrando crescimento em commodities.
+✅ Se Hipótese 6 for verdadeira:
+
+Registros de investimentos em infraestrutura ou tecnologia (não ligados a exportações).
+
+Relatórios de agências de risco sobre melhoria no ambiente de negócios.
+
+4. Alta do Ibovespa (4,2%) vs. crescimento de preços em 2024
+Hipóteses relacionadas:
+
+Hipótese 7: Otimismo corporativo.
+
+Hipótese 5: Cortes de juros incentivando migração para ações.
+
+Evidências de teste esperadas:
+✅ Se Hipótese 7 for verdadeira:
+
+Lucros trimestrais acima do esperado em empresas listadas.
+
+Aumento em IPOs ou emissão de ações.
+✅ Se Hipótese 5 for verdadeira:
+
+Relação inversa entre taxa Selic e valorização do Ibovespa.
+
+Aumento no volume de negociações na bolsa.
+
+5. Safra recorde (+15%) com superávit comercial modesto (US$ 8 bi)
+Hipóteses relacionadas:
+
+Hipótese 8: Condições climáticas favoráveis.
+
+Hipótese 9: Aumento nas importações de bens industriais.
+
+Evidências de teste esperadas:
+✅ Se Hipótese 8 for verdadeira:
+
+Relatórios da CONAB confirmando produtividade acima da média.
+
+Dados meteorológicos mostrando chuvas regulares.
+✅ Se Hipótese 9 for verdadeira:
+
+Aumento nas importações de máquinas e insumos industriais (Comex Stat).
+
+Queda no saldo comercial de manufaturados.
+
+Conclusão
+Para validar cada hipótese, é necessário cruzar os dados com:
+
+Fontes oficiais (Banco Central, IBGE, Comex Stat).
+
+Indicadores setoriais (varejo, agropecuária, mercado financeiro).
+
+Eventos externos (câmbio, preços de commodities, clima).
+
+Essas evidências permitiriam confirmar ou refutar as relações de causa-efeito propostas. 
