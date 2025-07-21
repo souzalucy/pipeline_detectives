@@ -1,0 +1,39 @@
+1. Qual foi o crescimento de julho de 2025?
+resposta 1. Segundo dados coletados de maneira 1, 2 e 3 de janeiro a dezembro de 2024, os preços dos ativos foram: 10000.
+hipótese 1. Esse crescimento se deve ao aumento do preço dos ativos em janeiro a dezembro de 2025.
+
+2. Qual foi a variação do PIB no primeiro trimestre de 2025?
+Resposta 2. De acordo com os indicadores econômicos do Banco Central, o PIB cresceu 2,3% no primeiro trimestre de 2025 em comparação com o mesmo período de 2024.
+Hipótese 2. Esse crescimento pode estar relacionado ao aumento do consumo das famílias e aos investimentos em infraestrutura.
+
+3. Como evoluiu a taxa de desemprego em março de 2025?
+Resposta 3. Dados do IBGE mostram que a taxa de desemprego caiu para 7,8% em março de 2025, a menor desde 2021.
+Hipótese 3. A redução pode ser atribuída à geração de empregos formais no setor de serviços e à retomada de obras públicas.
+
+4. Qual foi o desempenho das exportações brasileiras em abril de 2025?
+Resposta 4. O Ministério da Economia registrou um aumento de 12% nas exportações em abril de 2025, totalizando US$ 30 bilhões.
+Hipótese 4. O crescimento pode ser explicado pela alta demanda da China por commodities agrícolas e pela desvalorização do real.
+
+5. Houve aumento na inflação em maio de 2025?
+Resposta 5. O IPCA (Índice de Preços ao Consumidor Amplo) ficou em 0,45% em maio de 2025, abaixo da expectativa do mercado.
+Hipótese 5. A queda na inflação pode estar associada à redução nos preços dos combustíveis e aos cortes de juros pelo Banco Central.
+
+6. Qual foi o volume de investimentos estrangeiros em junho de 2025?
+Resposta 6. O BC registrou entrada de US$ 5 bilhões em Investimento Estrangeiro Direto (IED) em junho de 2025.
+Hipótese 6. O interesse de investidores pode estar ligado às reformas econômicas e à estabilidade política recente.
+
+7. Como se comportou o mercado de ações em agosto de 2025?
+Resposta 7. O Ibovespa fechou agosto com alta de 4,2%, atingindo 150.000 pontos.
+Hipótese 7. O otimismo com os resultados corporativos e a melhora no cenário global podem ter impulsionado o índice.
+
+8. Qual foi o impacto da safra recorde no agronegócio em setembro de 2025?
+Resposta 8. A produção de grãos atingiu 300 milhões de toneladas, um aumento de 15% em relação a 2024.
+Hipótese 8. Condições climáticas favoráveis e avanços tecnológicos no campo contribuíram para o resultado.
+
+9. Qual foi o saldo da balança comercial em outubro de 2025?
+Resposta 9. A balança comercial registrou um superávit de US$ 8 bilhões em outubro de 2025.
+Hipótese 9. O aumento nas exportações de minério de ferro e soja superou as importações de bens industriais.
+
+10. Como ficou o endividamento das famílias em novembro de 2025?
+Resposta 10. Segundo a Serasa, a dívida média das famílias subiu para R$ 5.200, um aumento de 3% em relação a 2024.
+Hipótese 10. A elevação pode estar associada ao maior acesso ao crédito e ao aumento dos preços de bens duráveis.

@@ -1,0 +1,34 @@
+# Arquivos de sistema operacional
+.DS_Store          # macOS
+Thumbs.db           # Windows
+
+# Dependências do projeto
+node_modules/       # Node.js (npm/yarn)
+vendor/             # PHP (Composer)
+__pycache__/        # Python
+*.pyc               # Python (arquivos compilados)
+/target/            # Rust (Cargo)
+
+# Arquivos de IDE
+.idea/              # JetBrains (IntelliJ, WebStorm, etc.)
+.vscode/            # VS Code
+
+# Variáveis de ambiente
+.env                # Arquivos de configuração local
+*.env.local         # Configurações específicas de ambiente
+.venv                # Arquivos de configuração local
+*.venv.local         # Configurações específicas de ambiente
+
+# Logs e arquivos temporários
+*.log
+tmp/
+temp/
+
+# Build/gerados
+dist/               # Pasta de build (React, Vue, etc.)
+build/              # Java, C++, etc.
+*.exe               # Executáveis (Windows)
+*.out               # Executáveis (Linux)
+
+# Arquivos do sistema de documentação
+.sass-cache/        # SASS/SCSS
